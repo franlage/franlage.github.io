@@ -12,4 +12,4 @@ Se denomina vuelo libre a aquel que para su práctica no necesita motor y aprove
 
 [+Info](http://www.rfae.es)
 
-
+![Foto ala delta](aladelta.jpg)
